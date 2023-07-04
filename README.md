@@ -1,2 +1,0 @@
-# petsxmail
-psx mailstealer
